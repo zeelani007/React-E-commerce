@@ -5,7 +5,6 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/main.js",
-    "start": "node src/main.js",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
